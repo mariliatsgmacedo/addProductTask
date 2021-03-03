@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fab_content_desc">icon_text_add</string>
+    <string name="title_main">Lista Produtos</string>
+    <string name="void_initial_list">Sua lista por enquanto está vazia!</string>
+    <string name="btn">botão</string>
+    <string name="text_btn_Add">ADICIONAR</string>
+    <string name="hint_name">Nome do produto</string>
+    <string name="delete_prod_list">Deseja deletar este produto?</string>
+    <string name="option_no">Não</string>
+    <string name="option_yes">Sim</string>
+    <string name="image_delete">image_delete</string>
+    <string name="success">Adicionado com Sucesso</string>
+    <string name="required_field">Campo Obrigatório</string>
+    <string name="imagem_add">imagem_add</string>
+    <string name="string_imagem_add">img</string>
+</resources>
