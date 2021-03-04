@@ -14,4 +14,5 @@
     <string name="required_field">Campo Obrigatório</string>
     <string name="imagem_add">imagem_add</string>
     <string name="string_imagem_add">img</string>
+    <string name="things_list">Things List</string>
 </resources>
